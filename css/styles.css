@@ -1,4 +1,7 @@
  <style>
+   body {
+      background: red !important;
+     }
     :root {
       --bg:      #0d0f14;
       --surface: #161920;
@@ -8,6 +11,7 @@
       --text:    #e8eaf0;
       --muted:   #6b7280;
     }
+
 
     * { box-sizing: border-box; }
 
